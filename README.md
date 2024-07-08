@@ -15,8 +15,8 @@ Results are available at [this link](https://inspire-lab.atlassian.net/jira/soft
 1. Clone project:
 
 ```shell
-git clone 
-cd Receipts_VQA
+git clone ...
+cd Receipts_VQA/
 ```
 
 2. Create conda environments:
