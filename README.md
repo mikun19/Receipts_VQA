@@ -4,7 +4,7 @@
 
 In this project, We will using LLMs LLaVA and RAG to build a VQA Chatbot.
 
-Results are available at [this link](https://inspire-lab.atlassian.net/jira/software/projects/AFT/boards/159?selectedIssue=AFT-76)
+Results are available at [Jira](https://inspire-lab.atlassian.net/jira/software/projects/AFT/boards/159?selectedIssue=AFT-76)
 
 ## Overview of the app
 
